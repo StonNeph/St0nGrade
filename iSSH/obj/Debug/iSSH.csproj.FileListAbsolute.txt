@@ -1,0 +1,15 @@
+C:\Users\Paweł\source\repos\iSSH\iSSH\bin\Debug\iSSH.exe.config
+C:\Users\Paweł\source\repos\iSSH\iSSH\bin\Debug\iSSH.exe
+C:\Users\Paweł\source\repos\iSSH\iSSH\bin\Debug\iSSH.pdb
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.csproj.AssemblyReference.cache
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.Form1.resources
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.Properties.Resources.resources
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.exe
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.pdb
+C:\Users\Paweł\source\repos\iSSH\iSSH\bin\Debug\Renci.SshNet.dll
+C:\Users\Paweł\source\repos\iSSH\iSSH\bin\Debug\Renci.SshNet.xml
+C:\Users\Paweł\source\repos\iSSH\iSSH\obj\Debug\iSSH.csproj.CopyComplete
+C:\Users\Paweł\source\repos\iSSH\iSSH\bin\Debug\SystemVersion.plist
